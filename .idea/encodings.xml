@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/u3/screenlockertest/Home.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/u3/screenlockertest/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/u3/screenlockertest/ScreenLockActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/u3/screenlockertest/ScreenLockService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/main_layout.xml" charset="UTF-8" />
+  </component>
+</project>
